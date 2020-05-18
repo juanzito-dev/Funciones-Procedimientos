@@ -1,0 +1,12 @@
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.vbprojAssemblyReference.cache
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.Form1.resources
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.Resources.resources
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.vbproj.GenerateResource.cache
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.vbproj.CoreCompileInputs.cache
+C:\Users\nidde\source\repos\PrivateSub\bin\Debug\PrivateSub.exe.config
+C:\Users\nidde\source\repos\PrivateSub\bin\Debug\PrivateSub.exe
+C:\Users\nidde\source\repos\PrivateSub\bin\Debug\PrivateSub.pdb
+C:\Users\nidde\source\repos\PrivateSub\bin\Debug\PrivateSub.xml
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.exe
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.xml
+C:\Users\nidde\source\repos\PrivateSub\obj\Debug\PrivateSub.pdb
